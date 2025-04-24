@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+.DS_Store
+.idea
+
+# consul-k8s-gather.sh artifacts
+consul_k8s_support_*
+consul_k8s_support_*/
+proxy_pipe
